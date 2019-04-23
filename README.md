@@ -42,7 +42,8 @@ It aims to provide a comprehensive archive of technical concepts, case studies, 
 	* [Attack Vectors](#attack-vectors)
 	* [Protocol Failures and Issues](#protocol-failures-and-issues)
 	* [Successful Hacks and Post-Mortems](#successful-hacks-and-post-mortems) 
-* [External Resources](#-external-resources) 
+* [External Resources](#-external-resources)
+* [Contributors](#contributors) 
 
 
 
@@ -830,3 +831,12 @@ Parity MultiSig #2:  [post-mortem](https://www.parity.io/a-postmortem-on-the-par
  [A16z’s Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)  by Sonal Chokshi, Chris Dixon, Denis Nazarov, Jesse Walden, and Ali Yahya
 
  [ZKP.Science](https://zkp.science/)  by idk
+
+ # Contributors
+
+ [Binance Research](https://research.binance.com/)
+
+ [Messari](https://messari.io/)
+
+ [Circle Research](https://research.circle.com/)
+
