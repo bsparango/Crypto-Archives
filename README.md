@@ -5,8 +5,19 @@ The Crypto Archives is a living resource stewarded by the analysts at [Multicoin
 
 It aims to provide a comprehensive archive of technical concepts, case studies, and essays in crypto. It traverses consensus algorithms, state machines, zero-knowledge proofs, hashing algorithms, peer-to-peer communication protocols, cryptoeconomics, and much, much more. 
 
-🚧 **Note: This Archive Is Under Construction** 🚧 Anyone is welcome to contribute to the archive by submitting a pull request. Contributions will be reviewed and incorporated as regularly as possible. Contributors will be credited below. 
+🚧 **Note: This Archive Is Under Construction** 🚧 Anyone is welcome to contribute to the archive by submitting a pull request. Contributions will be reviewed and incorporated as regularly as possible. 
 
+# 🖋️ Contributors
+
+Thank you to our launch contributors that helped make this project possible!
+
+ [Binance Research](https://research.binance.com/)
+
+ [Messari](https://messari.io/)
+
+ [Circle Research](https://research.circle.com/)
+
+ If you'd like to join us in building this repo, please feel free to open pull requests and start contributing!
 
 
 # 📖 Table of Contents 
@@ -43,8 +54,6 @@ It aims to provide a comprehensive archive of technical concepts, case studies, 
 	* [Protocol Failures and Issues](#protocol-failures-and-issues)
 	* [Successful Hacks and Post-Mortems](#successful-hacks-and-post-mortems) 
 * [External Resources](#-external-resources)
-* [Contributors](#contributors) 
-
 
 
 
@@ -831,12 +840,4 @@ Parity MultiSig #2:  [post-mortem](https://www.parity.io/a-postmortem-on-the-par
  [A16z’s Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)  by Sonal Chokshi, Chris Dixon, Denis Nazarov, Jesse Walden, and Ali Yahya
 
  [ZKP.Science](https://zkp.science/)  by idk
-
- # Contributors
-
- [Binance Research](https://research.binance.com/)
-
- [Messari](https://messari.io/)
-
- [Circle Research](https://research.circle.com/)
 
